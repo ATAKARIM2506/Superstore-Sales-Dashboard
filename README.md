@@ -41,3 +41,4 @@ This project is an interactive Excel dashboard built using the Superstore datase
 ## Author
 
 Md Atakarim
+Aspiring Data Analyst skilled in Excel dashboards, data cleaning, PivotTables, KPI reporting, and business analytics.
